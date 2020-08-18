@@ -1,5 +1,11 @@
 ### Hi there 👋
 
-Just a random guy do the thing I love. If you're readingh this, have a nice day!
+My name is Minh "Monody" Le Hong. jJust a guy
+tends to be handsome gradually over the years…
 
-<img src="https://github.com/monodyle/monodyle/raw/master/naruto.gif" style="width: 100%" />
+I was born a child of the mountains and forests,
+raised on the land of sunny which named Central Highlands.
+Should be I had to grow vegetables and chickens,
+but now I go coding and design.
+
+<img src="https://github.com/monodyle/monodyle/raw/master/hello.gif" style="width: 100%" />
