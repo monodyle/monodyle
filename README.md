@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Minh "Monody" Le Hong. jJust a guy
+My name is Minh "Monody" Le Hong. Just a guy
 tends to be handsome gradually over the years…
 
 I was born a child of the mountains and forests,
