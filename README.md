@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/monodyle/monodyle/raw/master/hello.gif" style="height: 150px" />
+<img align="right" src="https://github.com/monodyle/monodyle/raw/master/hello.gif" style="height: 64px" />
 
 My name is Minh "Monody" Le Hong. Just a guy
 tends to be handsome gradually over the years…
