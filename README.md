@@ -2,9 +2,9 @@
 
 <img src="./assets/me.png" align="right" height="128" />
 
-From: Vietnam <img src="./assets/flag-vn.png" height="24" />
+From: Vietnam <img src="./assets/flag-vn.png" height="12" />
 
-Software Engineer at <img src="./assets/be.png" height="24" /> [Be Group]
+Software Engineer at <img src="./assets/be.png" height="12" /> [Be Group]
 
 [Be Group]: https://www.linkedin.com/company/begroupjsc/
 
