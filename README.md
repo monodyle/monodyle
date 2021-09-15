@@ -18,10 +18,10 @@ but now I go coding and design.
 
 #### Stack
 
-- *Programming Languages:* TypeScript, JavaScript, PHP
+- *Programming Languages:* TypeScript, JavaScript
 - *Web Development:* HTML, CSS/SASS, TailwindCSS
-- *Front-end Frameworks:* React, jQuery, Material UI
-- *Back-end Frameworks:* Laravel, NodeJs, Next.js
+- *Front-end Frameworks:* React, jQuery
+- *Back-end Frameworks:* Next.js
 - *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
 
 #### Member of
