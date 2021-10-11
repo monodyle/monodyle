@@ -25,6 +25,8 @@ but now I go coding and design.
 - *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
 
 #### Member of
-- [moaijs.com] - React Component Library, Where Buttons Look like Buttons 🗿
+- [moaijs.com] - A React component library
+- [Samuwrite] - A Zen writing experience
 
 [moaijs.com]: https://moaijs.com/
+[Samuwrite]: https://samuwrite.com/
