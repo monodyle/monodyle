@@ -4,10 +4,6 @@
 
 From: Vietnam <img src="./assets/flag-vn.png" height="12" />
 
-Software Engineer at <img src="./assets/be.png" height="12" /> [Be Group]
-
-[Be Group]: https://www.linkedin.com/company/begroupjsc/
-
 My name is Minh "Monody" Le Hong. Just a guy
 tends to be handsome gradually over the years…
 
@@ -15,6 +11,11 @@ I was born a child of the mountains and forests,
 raised on the land of sunny which named Central Highlands.
 Should be I had to grow vegetables and chickens,
 but now I go coding and design.
+
+Follow me via: [Twitter] | [Behance]
+
+[Twitter]: https://twitter.com/MonodyLe
+[Behance]: https://www.behance.net/monodyle
 
 #### Stack
 
@@ -30,3 +31,8 @@ but now I go coding and design.
 
 [moaijs.com]: https://moaijs.com/
 [Samuwrite]: https://samuwrite.com/
+
+#### Highlight project
+- [Code Leak] - Anonymous link sharing application
+
+[Code Leak]: https://codeleak.me
