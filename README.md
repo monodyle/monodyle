@@ -12,22 +12,22 @@ raised on the land of sunny which named Central Highlands.
 Should be I had to grow vegetables and chickens,
 but now I go coding and design.
 
-Follow me via: [My Space] | [Twitter] | [Behance]
+Follow me via: [My Space] | [Twitter] | [LinkedIn]
 
 [My Space]: https://www.minhle.space/
 [Twitter]: https://twitter.com/MonodyLe
-[Behance]: https://www.behance.net/monodyle
+[LinkedIn]: https://www.linkedin.com/in/monodyle/
 
 #### Stack
 
-- *Programming Languages:* TypeScript, JavaScript
-- *Web Development:* HTML, CSS/SASS, TailwindCSS
+- *Programming Languages:* JavaScript, TypeScript, Rust
+- *Web Development:* HTML, CSS, TailwindCSS
 - *Front-end Frameworks:* React, jQuery
-- *Back-end Frameworks:* Next.js
+- *Back-end Frameworks:* Next.js, Actix Web
 - *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
 
 #### Member of
-- [moaijs.com] - A React component library
+- [moaijs.com] - React component library
 - [Samuwrite] - A Zen writing experience
 
 [moaijs.com]: https://moaijs.com/
