@@ -20,10 +20,10 @@ Follow me via: [My Space] | [Twitter] | [LinkedIn]
 
 #### Stack
 
-- *Programming Languages:* JavaScript, TypeScript, Rust
+- *Programming Languages:* JavaScript, TypeScript, PHP, Rust
 - *Web Development:* HTML, CSS, TailwindCSS
 - *Front-end Frameworks:* React, jQuery
-- *Back-end Frameworks:* Next.js, Actix Web
+- *Back-end Frameworks:* Next.js, Laravel, Actix Web
 - *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
 
 #### Member of
