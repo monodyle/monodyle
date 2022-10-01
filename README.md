@@ -12,11 +12,15 @@ raised on the land of sunny which named Central Highlands.
 Should be I had to grow 🥕 vegetables and 🐤 chickens,
 but now I go 🧑‍💻 coding and 🧑‍🎨 design.
 
-Follow me via: [My Space] | [Twitter] | [LinkedIn]
+Follow me via: 
 
-[My Space]: https://www.minhle.space/
-[Twitter]: https://twitter.com/MonodyLe
-[LinkedIn]: https://www.linkedin.com/in/monodyle/
+<p align="center">
+  <samp>
+    <a href="https://www.minhle.space/">my space</a> .
+    <a href="https://twitter.com/MonodyLe">twitter</a> .
+    <a href="https://www.linkedin.com/in/monodyle/">linkedin</a>
+  </samp>
+</p>
 
 #### Stack
 
