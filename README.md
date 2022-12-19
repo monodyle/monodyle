@@ -35,8 +35,5 @@ but now I go 🧑‍💻 coding and 🧑‍🎨 design.
 [Samuwrite]: https://samuwrite.com/
 
 #### Highlight project
-- [Coffee@Saigon] - Finding coffee at Saigon?
-- [Code Leak] - Anonymous link sharing application
-
-[Code Leak]: https://github.com/monodyle/codeleak
-[Coffee@Saigon]: https://saigonese.cafe/
+- saigonese.cafe - Finding coffee at Saigon? - [website](https://saigonese.cafe/) | [github](https://github.com/monodyle/saigonese.cafe)
+- Code Leak - Anonymous link sharing application - [github](https://github.com/monodyle/codeleak)
