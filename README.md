@@ -23,7 +23,7 @@ but now I go 🧑‍💻 coding and 🧑‍🎨 design.
 
 - *Programming Languages:* JavaScript, TypeScript, PHP, Rust
 - *Web Development:* HTML, CSS, TailwindCSS
-- *Front-end Frameworks:* React, jQuery
+- *Front-end Frameworks:* React, Svelte, jQuery
 - *Back-end Frameworks:* Next.js, Laravel, Actix Web
 - *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
 
