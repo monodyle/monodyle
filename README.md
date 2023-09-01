@@ -35,6 +35,6 @@ but now I go coding and design.
 [Samuwrite]: https://samuwrite.com/
 
 #### Highlight project
-- hiki - a react dialog component will turn into a drawer on small viewport - [github](https://github.com/monodyle/hiki)
+- hiki - a react dialog component will turn into a drawer on small viewport - [website](https://hiki.minhle.space/) | [github](https://github.com/monodyle/hiki)
 - saigonese.cafe - Finding coffee at Saigon? - [website](https://saigonese.cafe/) | [github](https://github.com/monodyle/saigonese.cafe)
 - Code Leak - Anonymous link sharing application - [github](https://github.com/monodyle/codeleak)
