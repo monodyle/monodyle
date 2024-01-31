@@ -35,9 +35,10 @@ but now I go coding and design.
 [Samuwrite]: https://samuwrite.com/
 
 #### Highlight project
+- sqrc - Generate a customizable styled QRCode worked in NodeJS/Browser with TypeScript supported - [repo](https://github.com/monodyle/sqrc)
+- vnqrpay - The golang package helps you to encode/decode QR code of VietQR/VNPay - [repo](https://github.com/monodyle/vnqrpay)
 - [hiki] - A react dialog component that will turn into a drawer on a small viewport - [repo](https://github.com/monodyle/hiki)
 - [saigonese.cafe] - Finding coffee at Saigon? - [repo](https://github.com/monodyle/saigonese.cafe)
-- Code Leak - Anonymous link-sharing application - [repo](https://github.com/monodyle/codeleak)
 
 [hiki]: https://hiki.minhle.space/
 [saigonese.cafe]: https://saigonese.cafe/
