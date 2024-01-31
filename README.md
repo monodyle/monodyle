@@ -21,10 +21,10 @@ but now I go coding and design.
 
 #### Stack
 
-- *Programming Languages:* JavaScript, TypeScript, PHP, Rust
+- *Programming Languages:* JavaScript, TypeScript, PHP, Rust, Go
 - *Web Development:* HTML, CSS, TailwindCSS
 - *Front-end Frameworks:* React, Svelte, jQuery
-- *Back-end Frameworks:* Next.js, Laravel, Actix Web
+- *Back-end Frameworks:* Next.js, Laravel
 - *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
 
 #### Member of
