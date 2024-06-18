@@ -42,4 +42,4 @@ but now I go coding and design.
 - saigonese.cafe - Finding coffee at Saigon? - [repo](https://github.com/monodyle/saigonese.cafe)
 
 [hiki]: https://hiki.minhle.space/
-[dynamic island]: https://dynamic-isla.minhle.space/
+[dynamic island]: https://dynamic-island.minhle.space/
