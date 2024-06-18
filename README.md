@@ -37,8 +37,9 @@ but now I go coding and design.
 #### Highlight project
 - sqrc - Generate a customizable styled QRCode worked in NodeJS/Browser with TypeScript supported - [repo](https://github.com/monodyle/sqrc)
 - vnqrpay - The golang package helps you to encode/decode QR code of VietQR/VNPay - [repo](https://github.com/monodyle/vnqrpay)
+- [dynamic island] - apple dynamic island with react - [repo](https://github.com/monodyle/dynamic-island)
 - [hiki] - A react dialog component that will turn into a drawer on a small viewport - [repo](https://github.com/monodyle/hiki)
-- [saigonese.cafe] - Finding coffee at Saigon? - [repo](https://github.com/monodyle/saigonese.cafe)
+- saigonese.cafe - Finding coffee at Saigon? - [repo](https://github.com/monodyle/saigonese.cafe)
 
 [hiki]: https://hiki.minhle.space/
-[saigonese.cafe]: https://saigonese.cafe/
+[dynamic island]: https://dynamic-isla.minhle.space/
