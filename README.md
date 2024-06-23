@@ -40,6 +40,7 @@ but now I go coding and design.
 - [dynamic island] - apple dynamic island with react - [repo](https://github.com/monodyle/dynamic-island)
 - [hiki] - A react dialog component that will turn into a drawer on a small viewport - [repo](https://github.com/monodyle/hiki)
 - saigonese.cafe - Finding coffee at Saigon? - [repo](https://github.com/monodyle/saigonese.cafe)
+- Elden Ring death counter - A death counter for Elden Ring (OBS friendly setup) - [repo](https://github.com/monodyle/elden-ring-death-counter)
 
 [hiki]: https://hiki.minhle.space/
 [dynamic island]: https://dynamic-island.minhle.space/
