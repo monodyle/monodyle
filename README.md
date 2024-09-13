@@ -19,22 +19,7 @@ but now I go coding and design.
   <a href="https://www.linkedin.com/in/monodyle/">linkedin</a>
 </samp>
 
-#### Stack
-
-- *Programming Languages:* JavaScript, TypeScript, PHP, Rust, Go
-- *Web Development:* HTML, CSS, TailwindCSS
-- *Front-end Frameworks:* React, Svelte, jQuery
-- *Back-end Frameworks:* Next.js, Laravel
-- *Design Tools:* Adobe Photoshop, Adobe Illustration, Figma
-
-#### Member of
-- [moaijs.com] - React component library
-- [Samuwrite] - A Zen writing experience
-
-[moaijs.com]: https://moaijs.com/
-[Samuwrite]: https://samuwrite.com/
-
-#### Highlight project
+#### Things I made
 - sqrc - Generate a customizable styled QRCode worked in NodeJS/Browser with TypeScript supported - [repo](https://github.com/monodyle/sqrc)
 - vnqrpay - The golang package helps you to encode/decode QR code of VietQR/VNPay - [repo](https://github.com/monodyle/vnqrpay)
 - [dynamic island] - apple dynamic island with react - [repo](https://github.com/monodyle/dynamic-island)
