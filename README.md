@@ -18,14 +18,3 @@ but now I go coding and design.
   <a href="https://twitter.com/MonodyLe">twitter</a> .
   <a href="https://www.linkedin.com/in/monodyle/">linkedin</a>
 </samp>
-
-#### Things I made
-- sqrc - Generate a customizable styled QRCode worked in NodeJS/Browser with TypeScript supported - [repo](https://github.com/monodyle/sqrc)
-- vnqrpay - The golang package helps you to encode/decode QR code of VietQR/VNPay - [repo](https://github.com/monodyle/vnqrpay)
-- [dynamic island] - apple dynamic island with react - [repo](https://github.com/monodyle/dynamic-island)
-- [hiki] - A react dialog component that will turn into a drawer on a small viewport - [repo](https://github.com/monodyle/hiki)
-- saigonese.cafe - Finding coffee at Saigon? - [repo](https://github.com/monodyle/saigonese.cafe)
-- Elden Ring death counter - A death counter for Elden Ring (OBS friendly setup) - [repo](https://github.com/monodyle/elden-ring-death-counter)
-
-[hiki]: https://hiki.minhle.space/
-[dynamic island]: https://dynamic-island.minhle.space/
